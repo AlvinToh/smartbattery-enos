@@ -3,4 +3,4 @@
  
  [Developer Boot Camp](https://github.com/EnvisionIot/developer_bootcamp)
 
- Please include your Enos Devices variable inside src/main/resources/application.properties
+ Please include your Enos Devices variables inside src/main/resources/application.properties
