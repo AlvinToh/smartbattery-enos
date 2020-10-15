@@ -1,5 +1,5 @@
 # smartbattery-enos
- Based on Developer Boot Camp for Enos - Day 2: Device Connectivity & Management
+ Based on 2_Device_Connectivity_Management for Enos Developer Boot Camp
  
  [Developer Boot Camp](https://github.com/EnvisionIot/developer_bootcamp)
 
